@@ -1,0 +1,6 @@
+# All files owned by these users by default
+*       @osmn-byhn
+
+# Specific files or directories
+/docs/  @doc-writer
+*.js    @js-dev
